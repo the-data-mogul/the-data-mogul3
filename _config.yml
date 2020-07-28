@@ -20,7 +20,7 @@ title                    : "The Data Mogul"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Data Mogul"
-description              : "The best curated content from YouTube in 2020 for free to enhance your knowledge and to help you start a career in the Data centric Industries. "
+description              : "The best curated content from YouTube in 2020 for free to enhance your knowledge and to help you start a career in the Data centric Industries."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -93,10 +93,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Data Mogul"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "The best curated content from YouTube in 2020 for free to enhance your knowledge and to help you start a career in the Data centric Industries."
+  location         : "India"
   email            :
   links:
     - label: "Email"
